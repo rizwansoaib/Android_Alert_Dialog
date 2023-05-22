@@ -16,3 +16,6 @@ Then we add the two Buttons, setPositiveButton and setNegativeButton to our Aler
 
 ![image](https://github.com/rizwansoaib/Android_Alert_Dialog/assets/29729380/96cf0e86-eb80-4f4d-bf6e-c11577c283f3)
 
+![image](https://github.com/rizwansoaib/Android_Alert_Dialog/assets/29729380/84d63baa-94ef-4a9f-87c1-aabc83114480)
+
+
